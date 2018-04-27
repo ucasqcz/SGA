@@ -1,0 +1,4 @@
+oxford5k/
+paris6k/
+*.caffemodel
+*.mat
